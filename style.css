@@ -118,6 +118,8 @@ body {
     transition: box-shadow 300ms ease, opacity 300ms ease, box-shadow 300ms ease;
 }
 
+
+
 .course.hidden {
     display: none !important;
 }
