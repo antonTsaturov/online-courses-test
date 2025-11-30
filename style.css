@@ -115,7 +115,7 @@ body {
       30px 30px 24px -10px #9A9CA50D,
       80px 80px 80px -20px #9A9CA514;
     background-color: white;
-    transition: transform 300ms ease, opacity 300ms ease, box-shadow 300ms ease;
+    transition: box-shadow 300ms ease, opacity 300ms ease, box-shadow 300ms ease;
 }
 
 .course.hidden {
@@ -126,10 +126,10 @@ body {
     transform: translateY(-3px);
     cursor: pointer;
     box-shadow: 
-      6px 6px 6px -4px #1E212C10,
-      16px 16px 12px -6px #9A9CA51A,
-      32px 32px 28px -10px #9A9CA520,
-      85px 85px 85px -20px #9A9CA530;
+      4px 4px 4px -4px #1E212C08,
+      12px 12px 10px -6px #9A9CA50A,
+      30px 30px 24px -10px #9A9CA50D,
+      80px 80px 80px -20px #9A9CA514;
 }
 
 .course__img {
